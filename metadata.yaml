@@ -1,0 +1,25 @@
+_repo: A-Strike-in-Santa-Land-A-Play-in-One-Act_53832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Preston, Effa E. (Effa Estelle)
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '47281'
+    url: http://www.gutenberg.org/2009/agents/47281
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s plays'
+- !lcsh 'Christmas plays'
+- GITenberg
+title: 'A Strike in Santa Land: A Play in One Act'
+url: http://www.gutenberg.org/ebooks/53832
